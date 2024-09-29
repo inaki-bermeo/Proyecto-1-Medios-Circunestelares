@@ -4,4 +4,4 @@ En este script de Python se investiga la estabilidad de los puntos lagrangianos 
 
 El programa lleva a cabo simulaciones asumiendo que las órbitas son circulares y examina cómo se comporta el sistema con el paso del tiempo, produciendo visualizaciones del potencial efectivo y las órbitas seguidas. Adicionalmente, el usuario tiene la opción de modificar variables como la masa de Júpiter para analizar la estabilidad en distintas situaciones.
 
-Participantes: Miyaray Arenas y Iñaki Bermeo
+Participantes: Miyaray Arenas e Iñaki Bermeo
